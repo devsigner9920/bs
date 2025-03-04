@@ -1,4 +1,4 @@
-## What is PL?
+## What is pli?
 This is the project name.
 
 ## What is the purpose of this project?
